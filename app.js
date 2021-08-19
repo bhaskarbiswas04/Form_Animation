@@ -35,7 +35,7 @@ function animatedForm()
                 parent.style.animation = "";
             });
         });
-    });
+    } );
 }
 
 //Function to check for Validate User.
