@@ -34,7 +34,7 @@ function animatedForm()
             parent.addEventListener('animationend', () => {
                 parent.style.animation = "";
             });
-        } );
+        });
     });
 }
 
