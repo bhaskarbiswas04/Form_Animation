@@ -15,7 +15,7 @@ function animatedForm()
                 nextSlide(parent, nextForm);
             }
 
-            else if(input.type === 'email' && validateEmail(input) )
+            else if(input.type === 'email' && validateEmail(input))
             {
                 nextSlide(parent, nextForm);
             }
